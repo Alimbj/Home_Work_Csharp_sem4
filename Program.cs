@@ -39,7 +39,7 @@ foreach (var element in array)
 //Доп. решение доп задачки
 
 
-
+/*
 Console.WriteLine("Введите первое число");
 int Nu = int.Parse(Console.ReadLine());
 int[] array_third = new int[Nu];
@@ -105,3 +105,4 @@ if (Ch < 0){
 
 Console.WriteLine($"[{string.Join(", ", array_third)}]");
 Console.WriteLine($"[{string.Join(", ", array_fourth)}]");
+*/
